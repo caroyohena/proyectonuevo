@@ -2,3 +2,26 @@
     background-color: rgba(245, 245, 220, 0.918);
     justify-content: center;
 }
+
+#navbarNav,
+.navbar-brand,{
+  padding: 4px;  
+}
+
+
+.Reserva{
+    background-color: silver;
+    padding-left: 8px;
+}
+
+.Por-que-reservar{
+    background: rgb(181, 155, 136);
+    font-family: 'Hind', sans-serif;
+    color: aliceblue;
+    width: 100px;
+    text-align: center
+}
+
+#Tarifa{
+    color: aquamarine;
+}
